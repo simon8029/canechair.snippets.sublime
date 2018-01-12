@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+expect(${1:__received__}).toEqual(${2:__expected__});
+]]></content>
+<tabTrigger>cc_jest_expect_toequal</tabTrigger>
+<description> -- Expect().toEqual()</description>
+<scope>source.js, meta.group.braces.round.js, meta.group.braces.curly.js, meta.group.braces.round.js, meta.group.braces.curly.js, meta.function-call.with-arguments.js, variable.function.js</scope>
+</snippet>

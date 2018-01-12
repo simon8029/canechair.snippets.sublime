@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+import renderer from 'react-test-renderer';
+]]></content>
+<tabTrigger>cc_import_renderer</tabTrigger>
+<description> -- Create a import renderer statement.</description>
+<scope>source.js, keyword.operator.module.js</scope>
+</snippet>

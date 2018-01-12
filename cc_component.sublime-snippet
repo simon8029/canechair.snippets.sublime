@@ -1,0 +1,20 @@
+<snippet>
+<content><![CDATA[
+// @flow
+
+import React from 'react';
+
+const ${1:__ComponentName__} = (props) => (
+	<div className="${1:__ComponentName__}">
+		<h3>Details works.</h3>
+		<pre><code>{JSON.stringify(props, null, 4)}</code></pre>
+	</div>
+);
+
+export default ${1:__ComponentName__};
+
+]]></content>
+<tabTrigger>cc_component</tabTrigger>
+<description> -- Create a bare cones component.</description>
+<scope>source.js, comment.line.double-slash.js, punctuation.definition.comment.js</scope>
+</snippet>

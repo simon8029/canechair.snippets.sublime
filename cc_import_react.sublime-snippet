@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+import React from 'react';
+]]></content>
+<tabTrigger>cc_import_react</tabTrigger>
+<description> -- Create a import react package statement</description>
+<scope>source.js, keyword.operator.module.js</scope>
+</snippet>
